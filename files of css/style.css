@@ -1,0 +1,36 @@
+header{
+    display: inline-block;
+    background-color: darkmagenta;
+    color: white;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: 1262px;
+    margin: 0px;
+    position: relative;
+    top: -8px;
+    left: -8px;
+    right: -8px;
+}
+
+header,
+.articles,
+.text{
+    font-family: 'Nunito', sans-serif;
+}
+
+.text{
+    line-height: 120%;
+}
+
+.paragraph1,
+.paragraph2,
+.paragraph3{
+    background-color: aqua;
+    padding: 8px 7px 8px 7px;
+    margin: 8px;
+}
+
+.paragraph3{
+    margin-bottom: 80px;
+}
